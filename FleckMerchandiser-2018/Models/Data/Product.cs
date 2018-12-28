@@ -14,5 +14,13 @@ namespace FleckMerchandiser2018.Models.Data
         public string Description { get; set; }
         public decimal Price { get; set; }
         public string DefaultImageUrl { get; set; }
+        public ProductStatus Status { get; set; }
+    }
+
+    public enum ProductStatus
+    {
+        Available = 0,
+        Sold = 1,
+        Other = 2
     }
 }
