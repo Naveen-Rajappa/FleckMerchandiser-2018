@@ -4,9 +4,9 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using FleckMerchandiser_2018.Models;
+using FleckMerchandiser2018.Models;
 
-namespace FleckMerchandiser_2018.Controllers
+namespace FleckMerchandiser2018.Controllers
 {
     public class HomeController : Controller
     {

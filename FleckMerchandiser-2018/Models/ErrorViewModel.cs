@@ -1,6 +1,6 @@
 using System;
 
-namespace FleckMerchandiser_2018.Models
+namespace FleckMerchandiser2018.Models
 {
     public class ErrorViewModel
     {

@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace FleckMerchandiser_2018
+namespace FleckMerchandiser2018
 {
     public class Startup
     {

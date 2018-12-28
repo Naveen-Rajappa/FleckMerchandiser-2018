@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace FleckMerchandiser_2018
+namespace FleckMerchandiser2018
 {
     public class Program
     {
