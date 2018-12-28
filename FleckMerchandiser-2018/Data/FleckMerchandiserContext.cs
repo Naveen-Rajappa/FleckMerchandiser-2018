@@ -27,5 +27,7 @@ namespace FleckMerchandiser2018.Data
         }
 
         public DbSet<Users> Users { get; set; }
+
+        public DbSet<FleckMerchandiser2018.Models.Data.Product> Product { get; set; }
     }
 }
